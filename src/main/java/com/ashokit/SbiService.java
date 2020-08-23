@@ -2,7 +2,11 @@ package com.ashokit;
 
 public class SbiService {
 
+
 	private int cid;
+
+	private String cname;
+
 	public void loan() {
 
 	System.out.println("now i am working on this implementation from 4 hrs");
@@ -31,4 +35,9 @@ public void newFeature()
 
 System.out.println("new feature added");
 }
+//feature-300
+public void mainfuture(){
+
+}
+
 }
